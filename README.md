@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👋 Hi, I'm Dave Phiri
 
-<!--
-**gamphani/gamphani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist | Clinical Data Manager | Digital Health Technologist**
 
-Here are some ideas to get you started:
+With 15+ years of experience at the intersection of public health, software development, and data management, I'm currently transitioning into industry-grade **Data Science** with a focus on health and development analytics. I’ve managed national-level EMR systems, built real-time data pipelines, and led digital health programs across Africa and Asia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Core Skills
+- **Languages & Tools**: Python, R, SQL, Git, Jupyter, Streamlit, Pandas, scikit-learn
+- **Data Management**: REDCap, MedDRA, OpenClinica, CTMS workflows, GDPR/GCP compliance
+- **Analysis**: Machine Learning, Statistical Modelling, Time-Series, EDA, Dashboards
+- **Clinical & Health Systems**: Electronic Medical Records, M&E, Global Health Informatics
+
+## 📂 Featured Projects
+- `📊` [Vaccination Dashboard](#) – Time-series trends & equity insights using DHS data  
+- `🦠` [Cholera Outbreak Predictor](#) – Predictive model using historical outbreak data  
+- `📍` [Geo-enabled Immunization Planner](#) – Cluster-based planning with spatial analytics  
+- `💊` [Simulated Clinical Data Workflow](#) – CRFs, MedDRA coding, SOPs, queries, clean dataset
+
+## 🌱 Currently Learning
+- Advanced Machine Learning  
+- Real-world Health Data Modelling  
+- Clinical Trial Data Science (GCP + CDISC/SDTM standards)
+
+## 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/gamphani](https://www.linkedin.com/in/gamphani)  
+- **Email**: davegamphaniphiri@gmail.com  
+- **GitHub Projects**: Feel free to explore, fork, and collaborate!
+
+---
+
+_“Making data work for public health, one model at a time.”_
