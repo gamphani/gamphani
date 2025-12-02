@@ -12,14 +12,12 @@ With 15+ years of experience at the intersection of public health, software deve
 
 ## 📂 Featured Projects
 - `📊` [Malawi National EMR](https://github.com/baobab/bart) – A web based electronic medical record system for managing patients in Malawi.  
-- `🦠` [Malawi National TB/ART EMR](https://github.com/BaobabHealthTrust/TB-ART) – A web based EMR for managing TB/HIV coinfected patients which later became MaHIS()  
-- `📍` [Geo-enabled Immunization Planner](#) – Cluster-based planning with spatial analytics  
-- `💊` [Simulated Clinical Data Workflow](#) – CRFs, MedDRA coding, SOPs, queries, clean dataset
+- `🦠` [Malawi National TB/ART EMR](https://github.com/BaobabHealthTrust/TB-ART) – A web based EMR for managing TB/HIV coinfected patients which later became [MaHIS](https://mahis.health.gov.mw/login)  
+- `📍` [Maternal Neonatal Child Hotline System](https://github.com/BaobabHealthTrust/mnch-hotline) – A maternal and neonatal child Hotline System.  
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning  
+- Machine Learning  
 - Real-world Health Data Modelling  
-- Clinical Trial Data Science (GCP + CDISC/SDTM standards)
 
 ## 📫 Let's Connect
 - **LinkedIn**: [linkedin.com/in/gamphani](https://www.linkedin.com/in/gamphani)  
