@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Dave Phiri
 
-🎯 **Data Scientist | Clinical Data Manager | Digital Health Technologist**
+🎯 **Health Informatics | Strategic Information | Digital Health | Software & Database Systems **
 
-With 15+ years of experience at the intersection of public health, software development, and data management, I'm currently transitioning into industry-grade **Data Science** with a focus on health and development analytics. I’ve managed national-level EMR systems, built real-time data pipelines, and led digital health programs across Africa and Asia.
+Technical Program Manager and Health Informatics Specialist with 15+ years of experience in project management, digital health, software development and data management. Expertise in health information systems, Agile methodologies, and cross-functional team leadership. Proven track record in delivering sustainable digital health solutions and managing multi-million-dollar budgets.
 
 ## 🔧 Core Skills
 - **Languages & Tools**: Python, R, SQL, Git, Jupyter, Streamlit, Pandas, scikit-learn
