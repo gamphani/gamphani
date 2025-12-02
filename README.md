@@ -11,8 +11,8 @@ With 15+ years of experience at the intersection of public health, software deve
 - **Clinical & Health Systems**: Electronic Medical Records, M&E, Global Health Informatics
 
 ## 📂 Featured Projects
-- `📊` [Vaccination Dashboard](- [![folder] Vaccination Dashboard](https://github.com/baobab/bart) – Time-series trends & equity insights using DHS data) – Time-series trends & equity insights using DHS data  
-- `🦠` [Cholera Outbreak Predictor](#) – Predictive model using historical outbreak data  
+- `📊` [Malawi National EMR](https://github.com/baobab/bart) – A web based electronic medical record system for managing patients in Malawi.  
+- `🦠` [Malawi National TB/ART EMR](https://github.com/BaobabHealthTrust/TB-ART) – A web based EMR for managing TB/HIV coinfected patients which later became MaHIS()  
 - `📍` [Geo-enabled Immunization Planner](#) – Cluster-based planning with spatial analytics  
 - `💊` [Simulated Clinical Data Workflow](#) – CRFs, MedDRA coding, SOPs, queries, clean dataset
 
